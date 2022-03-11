@@ -61,7 +61,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Debajyoti14/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Debajyoti14">
 </a>
 <a href="https://github.com/Debajyoti14?tab=followers"><img src="https://img.shields.io/github/followers/Debajyoti14?label=Followers&style=social" alt="GitHub Badge"></a>
