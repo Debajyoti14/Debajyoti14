@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Booklee](https://(https://booklee.vercel.app/))**
-
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **App Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
