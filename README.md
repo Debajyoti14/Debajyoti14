@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Debajyoti14/github-readme-activity-graph"><img alt="Debajyoti Saha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Debajyoti14&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Debajyoti14/github-readme-activity-graph"><img alt="Debajyoti Saha's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Debajyoti14" /></a>
 
 <br/>
 <br/>
