@@ -1,7 +1,7 @@
 <img src="/GitHubCover.png"/>
 
 # 💫About Me :
-🚀 I'm currently interning at @DocuComb
+🚀 I'm currently interning at @DocuComb.
 
 🌱 I’m currently learning App Development (Flutter).
 
