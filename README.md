@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning App Development (Flutter).
 
-👯 I’m looking to collaborate on OpenSource Projects
+👯 I’m looking to collaborate on OpenSource Projects.
 
 📫 How to reach me debajyotisaha14@gmail.com
 
