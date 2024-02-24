@@ -1,4 +1,4 @@
-<img src="/GitHubCover.png"/>
+<img src="/cover.png"/>
 
 # 💫About Me :
 <!-- 🚀 I'm currently interning at @DocuComb -->
