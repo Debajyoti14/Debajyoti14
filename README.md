@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/debajyotisaha14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/debajyoti14_" target="_blank">
+  <a href="https://x.com/debajyotis14" target="_blank">
     <img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:debajyotisaha14@gmail.com" target="_blank">
